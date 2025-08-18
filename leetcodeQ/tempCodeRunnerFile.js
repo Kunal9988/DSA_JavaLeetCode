@@ -1,0 +1,1 @@
+x= Math.floor(x/10);
