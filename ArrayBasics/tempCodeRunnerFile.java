@@ -1,1 +1,1 @@
-largeEle(arr);
+averager(arr);

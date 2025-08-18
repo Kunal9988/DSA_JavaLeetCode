@@ -6,6 +6,8 @@ public class largestElearr {
     public static void main(String[] args) {
         int[] arr = { 1, 2, 3, 4, 5 };
         largeEle(arr);
+        int[] arr2 = { 12, 45, 7, 89, 23 };
+        largeEle(arr2);
 
         // largeEle(arr);
 
@@ -13,7 +15,7 @@ public class largestElearr {
 
     public static void largeEle(int[] arr) {
         int n = arr.length;
-        int max = 0;
+        int max = arr[0];
 
         for (int i = 0; i < n; i++) {
             if (arr[i] > max) {

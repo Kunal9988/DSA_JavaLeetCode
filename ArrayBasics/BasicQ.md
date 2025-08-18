@@ -2,15 +2,19 @@ Basic Array Questions
 
 1 . Find the largest element in an array
 Input: {12, 45, 7, 89, 23} → Output: 89
+done
 
 Find the smallest element in an array
 Input: {5, 2, 8, 1, 9} → Output: 1
+done
 
 Calculate the sum of all elements in an array
 Input: {1, 2, 3, 4, 5} → Output: 15
+done
 
 Calculate the average of array elements
 Input: {10, 20, 30, 40, 50} → Output: 30
+
 
 Reverse an array
 Input: {1, 2, 3, 4, 5} → Output: {5, 4, 3, 2, 1}
