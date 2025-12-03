@@ -1,1 +1,1 @@
-averager(arr);
+System.err.println(arr[i]);
