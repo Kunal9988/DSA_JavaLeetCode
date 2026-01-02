@@ -18,6 +18,7 @@
 
 // 1 <= nums.length <= 104
 // 0 <= nums[i] <= 105
+
 public class leetcode_jumpGame {
 
     public static void main(String[] args) {
